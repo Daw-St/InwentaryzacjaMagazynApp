@@ -1,0 +1,12 @@
+C:\Users\dawid\source\repos\inwentaryazjaMagazynu\inwentaryazjaMagazynu\bin\Debug\inwentaryazjaMagazynu.exe.config
+C:\Users\dawid\source\repos\inwentaryazjaMagazynu\inwentaryazjaMagazynu\bin\Debug\inwentaryazjaMagazynu.exe
+C:\Users\dawid\source\repos\inwentaryazjaMagazynu\inwentaryazjaMagazynu\bin\Debug\inwentaryazjaMagazynu.pdb
+C:\Users\dawid\source\repos\inwentaryazjaMagazynu\inwentaryazjaMagazynu\obj\Debug\inwentaryazjaMagazynu.csprojResolveAssemblyReference.cache
+C:\Users\dawid\source\repos\inwentaryazjaMagazynu\inwentaryazjaMagazynu\obj\Debug\inwentaryazjaMagazynu.Properties.Resources.resources
+C:\Users\dawid\source\repos\inwentaryazjaMagazynu\inwentaryazjaMagazynu\obj\Debug\inwentaryazjaMagazynu.stockMain.resources
+C:\Users\dawid\source\repos\inwentaryazjaMagazynu\inwentaryazjaMagazynu\obj\Debug\inwentaryazjaMagazynu.csproj.GenerateResource.cache
+C:\Users\dawid\source\repos\inwentaryazjaMagazynu\inwentaryazjaMagazynu\obj\Debug\inwentaryazjaMagazynu.csproj.CoreCompileInputs.cache
+C:\Users\dawid\source\repos\inwentaryazjaMagazynu\inwentaryazjaMagazynu\obj\Debug\inwentaryazjaMagazynu.exe
+C:\Users\dawid\source\repos\inwentaryazjaMagazynu\inwentaryazjaMagazynu\obj\Debug\inwentaryazjaMagazynu.pdb
+C:\Users\dawid\source\repos\inwentaryazjaMagazynu\inwentaryazjaMagazynu\obj\Debug\inwentaryazjaMagazynu.Login.resources
+C:\Users\dawid\source\repos\inwentaryazjaMagazynu\inwentaryazjaMagazynu\obj\Debug\inwentaryazjaMagazynu.Products.resources
